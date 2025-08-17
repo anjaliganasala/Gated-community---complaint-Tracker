@@ -3,6 +3,7 @@
 A full-stack web application to efficiently manage complaints within a gated community. This project allows residents to submit complaints, track their status, and lets admins manage, update, or resolve complaints in real-time.
 
 Features :
+
 🟩 User Registration & Login – Secure 
 login/signup for residents
 
